@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+  border: 5px solid #000;
+  max-width: 400px;
+}
+
+.container {
+  padding: 20px;
+}
+
+img {
+  width: 100%;
+  margin-top: -40px;
+  margin-bottom: -90px;
+}
+
+.skill {
+  font-size: 14px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  box-sizing: inline;
+  display: inline-block;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
